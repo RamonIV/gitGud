@@ -148,6 +148,6 @@ public class Movie {
 }
 
 
-enum emoji {
+enum emoji { 
 	BLACKWOMAN, BROWNPEDO, WHITEPEDO, BLONDECHILD, ASIANCHILD, WHITECHILD, BLACKPEDO 
 }
